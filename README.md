@@ -1,0 +1,4 @@
+SlovakDroiD
+===========
+
+Preklady tímu SlovakDroiD

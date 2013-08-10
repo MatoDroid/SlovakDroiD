@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="font_size_entry">
+        <item>Veľmi malé</item>
+        <item>Malé</item>
+        <item>Stredné</item>
+        <item>Veľké</item>
+        <item>Veľmi veľké</item>
+    </string-array>
+</resources>

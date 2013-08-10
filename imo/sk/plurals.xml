@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="own_cp_points">
+        <item quantity="other">Máte %d bodov</item>
+        <item quantity="zero">Upozornenie! Nemáte žiadne komunikačné body (CP)</item>
+        <item quantity="one">Máte %d bod</item>
+        <item quantity="few">Máte %d body</item>
+    </plurals>
+    <plurals name="communication_points">
+        <item quantity="other">%d CP k dispozícii</item>
+        <item quantity="zero">Žiadne CP k dispozícii</item>
+        <item quantity="one">%d CP k dispozícii</item>
+        <item quantity="few">%d CP k dispozícii</item>
+    </plurals>
+    <plurals name="accounts_online">
+        <item quantity="other">%d účtov je online</item>
+        <item quantity="zero">Prihláste sa</item>
+        <item quantity="one">%d účet je online</item>
+        <item quantity="few">%d účty sú online</item>
+    </plurals>
+    <plurals name="week_ago">
+        <item quantity="other">Pred %d týždňami</item>
+        <item quantity="one">Pred týždňom</item>
+        <item quantity="few">Pred %d týždňami</item>
+    </plurals>
+    <plurals name="day_ago">
+        <item quantity="other">Pred %d dňami</item>
+        <item quantity="one">Včera</item>
+        <item quantity="few">Pred %d dňami</item>
+    </plurals>
+    <plurals name="hour_ago">
+        <item quantity="other">Pred %d hodinami</item>
+        <item quantity="one">Pred hodinou</item>
+        <item quantity="few">Pred %d hodinami</item>
+    </plurals>
+    <plurals name="min_ago">
+        <item quantity="other">Pred %d minútami</item>
+        <item quantity="one">Pred minútou</item>
+        <item quantity="few">Pred %d minútami</item>
+    </plurals>
+    <plurals name="invite_n_friends">
+        <item quantity="other">%d pozvaných priateľov</item>
+        <item quantity="one">1 pozvaný priateľ</item>
+        <item quantity="few">%d pozvaní priatelia</item>
+    </plurals>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="own_cp_points">
+        <item quantity="other">You have %d points</item>
+        <item quantity="one">You have one point</item>
+    </plurals>
+    <plurals name="communication_points">
+        <item quantity="other">%d CP available</item>
+        <item quantity="one">1 CP available</item>
+    </plurals>
+    <plurals name="accounts_online">
+        <item quantity="other">%d accounts online</item>
+        <item quantity="one">1 account online</item>
+    </plurals>
+    <plurals name="week_ago">
+        <item quantity="other">%d weeks ago</item>
+        <item quantity="one">1 week ago</item>
+    </plurals>
+    <plurals name="day_ago">
+        <item quantity="other">%d days ago</item>
+        <item quantity="one">1 day ago</item>
+    </plurals>
+    <plurals name="hour_ago">
+        <item quantity="other">%d hours ago</item>
+        <item quantity="one">1 hour ago</item>
+    </plurals>
+    <plurals name="min_ago">
+        <item quantity="other">%d minutes ago</item>
+        <item quantity="one">1 minute ago</item>
+    </plurals>
+    <plurals name="week_ago_short">
+        <item quantity="other">%dw</item>
+        <item quantity="one">%dw</item>
+    </plurals>
+    <plurals name="day_ago_short">
+        <item quantity="other">%dd</item>
+        <item quantity="one">%dd</item>
+    </plurals>
+    <plurals name="hour_ago_short">
+        <item quantity="other">%dh</item>
+        <item quantity="one">%dh</item>
+    </plurals>
+    <plurals name="min_ago_short">
+        <item quantity="other">%dm</item>
+        <item quantity="one">%dm</item>
+    </plurals>
+    <plurals name="invite_n_friends">
+        <item quantity="other">Invite %d friends</item>
+        <item quantity="one">Invite 1 friend</item>
+    </plurals>
+</resources>
